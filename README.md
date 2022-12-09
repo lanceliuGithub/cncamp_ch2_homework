@@ -15,6 +15,7 @@ bin/linux/amd64/myhttpserver
 ```
 
 打开方式
-http://localhost:8888
-http://localhost:8888/healthz
-http://localhost:8888/no_such_page
+
+- 首页: http://localhost:8888
+- 健康检查页: http://localhost:8888/healthz
+- 缺失的页面: http://localhost:8888/no_such_page
